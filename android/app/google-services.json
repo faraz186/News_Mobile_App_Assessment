@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760434925952",
+    "project_id": "practicetestapp-bea9e",
+    "storage_bucket": "practicetestapp-bea9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760434925952:android:b8f8dab87901e63abd6165",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC94K2wHDlyKDfxPflh3JuIUu9EXm5_RPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
